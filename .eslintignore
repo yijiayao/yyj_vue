@@ -1,0 +1,4 @@
+*.ejs
+/dist/**/*.*
+main.js
+server.js
