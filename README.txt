@@ -1,5 +1,4 @@
 package com.isoftstone.sd.framework.controller.printIp;
-
 import java.net.InetAddress;
 import java.util.Date;
 import java.util.Enumeration;
@@ -8,7 +7,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
